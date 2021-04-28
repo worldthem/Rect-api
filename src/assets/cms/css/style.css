@@ -1,0 +1,76 @@
+/*========Defoult=====*/
+
+.containerDefault{
+   min-height:450px ;
+   padding: 20px 0; 
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.center-text, .text-center{text-align: center;}
+.clear_100px{clear: both; height: 100px;}
+.clear_90px{clear: both; height: 90px;}
+.clear_80px{clear: both; height: 80px;}
+.clear_70px{clear: both; height: 70px;}
+.clear_60px{clear: both; height: 60px;}
+.clear_50px{clear: both; height: 50px;}
+.clear_40px{clear: both; height: 40px;}
+.clear_30px{clear: both; height: 30px;}
+.clear_15px{clear: both; height: 15px;}
+.clear_20px{clear: both; height: 20px;}    
+.clear_10px{clear: both; height: 10px;} 
+.clear_5px{clear: both; height: 5px;} 
+.clear{clear:both}
+.right-text{text-align: right;}
+.divcenter{margin: 0 auto;}
+.centerSpan span{display:inline-block;}
+ul li {
+  list-style: none;
+}
+
+
+.btn-big{
+    padding: 19px 14px 17px 18px;
+    font-size: 14px;
+    line-height: 19px !important;
+    margin-top: 20px;
+    border: 2px solid #454545;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color:#454545 ; 
+}
+.btn-big:hover{
+    border: 2px solid #7A7A7A;
+    background: #7A7A7A;
+    color:#fff; 
+}
+
+
+a:hover {
+outline: none;
+text-decoration:none;
+}
+
+a:focus {
+  outline:none;
+  outline-offset: 0;
+}
+
+a {
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -o-transition: 300ms;
+   transition: 300ms;
+}
+

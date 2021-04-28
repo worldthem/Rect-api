@@ -1,0 +1,7 @@
+{
+  "SERVER_URL": "http://localhost:8551/api/v1/",
+  "THEME_COLORS": {
+    "PRIMARY": "#007bff",
+    "SECONDARY": "#fc3"
+  }
+}

@@ -3,10 +3,20 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import './assets/cms/css/bootstrap.min.css';
+import './assets/cms/css/style.css';
+import './assets/cms/css/pageBuilderDefault.css';
+import './assets/cms/css/login.css';
+import './assets/theme/css/style.css';
+import './assets/cms/css/font-awesome.min.css';
+
+//import {getData } from './Helpers';
+
+ //getData();
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+     <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
